@@ -48,3 +48,70 @@ li{
     height: 100%;
     vertical-align: middle;
 }
+.whoweare{
+    padding-top: 50px;
+    text-align: center;
+    color:rgb(73, 36, 126);
+    font-weight: bold;
+}
+.Description{
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.Services{
+    padding-top: 10px;
+    text-align: center;
+    color:rgb(73, 36, 126);
+    font-weight: bold;
+}
+.sidebyside{
+    display: flex;
+    justify-content:space-evenly;
+}
+.firstservice{
+    width: 30%;
+    height: 20%;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size: 9;
+    color: black;
+    border-radius: 10px;
+    background-color: rgb(232, 220, 239);
+}
+.firstservice p{
+    text-align: justify;
+    padding: 12px;
+}
+.secondService{
+    width: 30%;
+    height: 30%;
+    font-size: 9;
+    color: black;
+    float: right;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(232, 220, 239);
+}
+.secondService p{
+    text-align: justify;
+    padding: 12px;
+}
+.thirdService{
+    width: 30%;
+    height: 20%;
+    font-size: 9;
+    color: black;
+    float: right;
+    padding: 5px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(232, 220, 239);
+}
+.thirdService p{
+    text-align: justify;
+    padding: 12px;
+}
